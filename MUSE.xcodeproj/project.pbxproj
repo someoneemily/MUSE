@@ -13,6 +13,7 @@
 		49DE1E8025C108E600D950D5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49DE1E7F25C108E600D950D5 /* Preview Assets.xcassets */; };
 		49DE1E8B25C108E600D950D5 /* MUSETests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DE1E8A25C108E600D950D5 /* MUSETests.swift */; };
 		49DE1E9625C108E600D950D5 /* MUSEUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DE1E9525C108E600D950D5 /* MUSEUITests.swift */; };
+		49DE1EAF25C10EFE00D950D5 /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DE1EAE25C10EFE00D950D5 /* HomePage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		49DE1E9125C108E600D950D5 /* MUSEUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MUSEUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		49DE1E9525C108E600D950D5 /* MUSEUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MUSEUITests.swift; sourceTree = "<group>"; };
 		49DE1E9725C108E600D950D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		49DE1EAE25C10EFE00D950D5 /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				49DE1E7825C108E500D950D5 /* MUSEApp.swift */,
 				49DE1E7A25C108E500D950D5 /* ContentView.swift */,
+				49DE1EAE25C10EFE00D950D5 /* HomePage.swift */,
 				49DE1E7C25C108E600D950D5 /* Assets.xcassets */,
 				49DE1E8125C108E600D950D5 /* Info.plist */,
 				49DE1E7E25C108E600D950D5 /* Preview Content */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				49DE1E7B25C108E500D950D5 /* ContentView.swift in Sources */,
+				49DE1EAF25C10EFE00D950D5 /* HomePage.swift in Sources */,
 				49DE1E7925C108E500D950D5 /* MUSEApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
